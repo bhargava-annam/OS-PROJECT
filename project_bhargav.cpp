@@ -1,4 +1,5 @@
-#include <iostream>
+#include <stdio.h>
+#include<conio.h>
 struct process{
     int arr,burst,firstt,i,status,burl,compt,waitingt,turnaroundt;
 }*run=NULL;
